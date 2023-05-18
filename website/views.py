@@ -5,3 +5,12 @@ from django.shortcuts import render
 def index(request):
     # Return homepage
     return render(request, 'index.html')
+
+def page1(request):
+    # Return otherpage
+    return render(request, 'page1.html')
+
+
+def page2(request):
+    # Return otherpage
+    return render(request, 'page2.html')
