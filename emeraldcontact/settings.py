@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 X_FRAME_OPTIONS = "SAMEORIGIN"
-ALLOWED_HOSTS = ['8000-excellentwi-websiterede-ynebmc5h9ta.ws-eu97.gitpod.io', 'redesign-1.herokuapp.com']
+ALLOWED_HOSTS = ['8000-excellentwi-websiterede-ynebmc5h9ta.ws-eu98.gitpod.io', 'redesign-1.herokuapp.com']
 
 
 # Application definition
